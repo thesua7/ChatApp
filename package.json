@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/thesua7/ChatApp#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
   }
 }
