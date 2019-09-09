@@ -1,3 +1,3 @@
 # ChatApp
  
-Simple Chat Application using ExpressJs,MongoDB,SocketIO 
+Simple Chat Application using ExpressJs,SocketIO 
